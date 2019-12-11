@@ -1,0 +1,9 @@
+E:\C#\Bouncing Balls\bin\Debug\Breakout Ball.exe.config
+E:\C#\Bouncing Balls\bin\Debug\Breakout Ball.exe
+E:\C#\Bouncing Balls\bin\Debug\Breakout Ball.pdb
+E:\C#\Bouncing Balls\obj\Debug\BouncingBalls.csprojAssemblyReference.cache
+E:\C#\Bouncing Balls\obj\Debug\Breakout_Ball.Properties.Resources.resources
+E:\C#\Bouncing Balls\obj\Debug\BouncingBalls.csproj.GenerateResource.cache
+E:\C#\Bouncing Balls\obj\Debug\Breakout Ball.exe
+E:\C#\Bouncing Balls\obj\Debug\Breakout Ball.pdb
+E:\C#\Bouncing Balls\obj\Debug\Breakout_Ball.joc.resources
